@@ -13,5 +13,7 @@ There isn't a 'right answer' for this portion of the project. The project is des
 
 You will use the pulled data to build a visual (bar chart, histogram, or another plot) that answers your question and present that information in a slide deck using PowerPoint, Google Slides or your favorite presentation software. See more information about what is required and how to submit the project on the Project Submission Details page.
 
+[sql-project-submission-template-1.pdf](https://github.com/budoor-ALhulaibi/Query-a-Digital-Music-Store-Database-SQL-/files/11429298/sql-project-submission-template-1.pdf)
+[Qeries.txt](https://github.com/budoor-ALhulaibi/Query-a-Digital-Music-Store-Database-SQL-/files/11429299/Qeries.txt)
 
 [Music SQL Database.zip](https://github.com/budoor-ALhulaibi/Query-a-Digital-Music-Store-Database-SQL-/files/10300210/Music.SQL.Database.zip)
